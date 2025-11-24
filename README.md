@@ -52,6 +52,7 @@ This project was developed as a hands-on exercise to build proficiency in core J
 
 ## 📂 Project Structure
 
+````plaintext
 Rock-paper-scissors/
 │
 ├── index.html # App layout and UI
@@ -66,7 +67,7 @@ Rock-paper-scissors/
 
 ```bash
    git clone https://github.com/PrinceLemayian/Rock-paper-scissors.git
-```
+````
 
 2. **Navigate to the project directory:**
 
