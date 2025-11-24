@@ -52,26 +52,21 @@ This project was developed as a hands-on exercise to build proficiency in core J
 
 ## 📂 Project Structure
 
-```
-
 Rock-paper-scissors/
 │
 ├── index.html # App layout and UI
 ├── styles.css # Styling for the game
 └── script.js # Game logic and DOM interactions
 
-```
-
 ---
 
 ## 💻 Installation and Setup
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/PrinceLemayian/Rock-paper-scissors.git
-   ```
 
-````
+```bash
+   git clone https://github.com/PrinceLemayian/Rock-paper-scissors.git
+```
 
 2. **Navigate to the project directory:**
 
@@ -114,4 +109,3 @@ This project is open-source and available under the **MIT License**.
 
 **Prince Lemayian**
 GitHub: (https://github.com/PrinceLemayian)
-````
